@@ -1,0 +1,53 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 23/08/2020 04:19
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.html") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-pin:before { content: "\f100"; }
+.flaticon-mail:before { content: "\f101"; }
+.flaticon-available:before { content: "\f102"; }
+.flaticon-power:before { content: "\f103"; }
+.flaticon-plug:before { content: "\f104"; }
+.flaticon-gear:before { content: "\f105"; }
+.flaticon-wind-turbine:before { content: "\f106"; }
+.flaticon-solar-panel:before { content: "\f107"; }
+.flaticon-wind-turbine-1:before { content: "\f108"; }
+.flaticon-leaf:before { content: "\f109"; }
+.flaticon-chat:before { content: "\f10a"; }
+.flaticon-chat-1:before { content: "\f10b"; }
+.flaticon-clock:before { content: "\f10c"; }
+.flaticon-solar-panel-1:before { content: "\f10d"; }
+.flaticon-wind-turbine-3:before { content: "\f10e"; }
+.flaticon-repair:before { content: "\f10f"; }
+.flaticon-wind-turbine-4:before { content: "\f110"; }
+.flaticon-question:before { content: "\f111"; }
+.flaticon-drill:before { content: "\f112"; }
+.flaticon-helmet:before { content: "\f113"; }
+.flaticon-chat-2:before { content: "\f114"; }
+.flaticon-solar-panel-2:before { content: "\f115"; }
+.flaticon-quote:before { content: "\f116"; }

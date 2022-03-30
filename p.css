@@ -1,0 +1,316 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.top{
+	background-color: #f6efef;
+	display: flex;
+}
+.new1{
+	width: 50%;
+	padding-left: 200px;
+
+}
+.new1 .head{
+	text-align: left;
+	padding: 70px 60px 60px 0px;
+	font-size: 35px;
+	line-height: 45px;
+	max-width: 300px;
+	width: 100%;
+}
+.new1 .para{
+	max-width: 400px;
+	width: 100%;
+	padding-bottom: 20px;
+	
+	/*text-align: center;*/
+}
+.new1 a{
+	background-color: blueviolet;
+	padding: 10px;
+	color: #fff;
+	display: inline-block;
+	border-radius: 20px;
+	/*padding-bottom: 5px;*/
+}
+
+
+.new2 img{
+	
+	max-width: 300px;
+	width: 100%;
+}
+.down{
+	background-color: #dbfadb;
+	display: flex;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+.old{
+	width: 33.33%;
+}
+.old h3{
+	padding-top: 10px;
+	font-size: 17px;
+	color: #324ccd;
+}
+.old2{
+	width: 33.33%;
+}
+.old2 h3{
+	padding-top: 10px;
+	font-size: 17px;
+	color: #cd7a32;
+}
+.old3{
+	width: 33.33%;
+}
+.old3 h3{
+	padding-top: 10px;
+	font-size: 17px;
+	color: #df1531;
+}
+.have{
+	background-color: #d5eef8;
+}
+.ab{
+	text-align: center;
+}
+
+.ab h6{
+	padding-top: 10px;
+}
+.ab p{
+	padding-top: 15px;
+	max-width: 450px;
+	width: 100%;
+	margin: 0 auto;
+	font-size: 15px;
+	padding-bottom: 25px;
+
+}
+.ab a{
+	background-color: #44300c;
+	color: #fff;
+	display: inline-block;
+	padding: 12px;
+	border-radius: 10px;
+}
+.T{
+	text-align: center;
+}
+.T img{
+	width: 320px;
+    padding-top: 40px;
+}
+.xy{
+    display: flex;
+}
+
+.pic img{
+	width: 220px;
+	padding-left: 200px;
+}
+.pa{
+	width: 50%;
+}
+.pa h3{
+	padding-top: 70px;
+	padding-left: 50px;
+}
+.p1{
+	padding-left: 50px;
+	padding-top: 10px;
+	font-size: 14px;
+}
+.therapist-sec{
+	background-color: #d2e3dc;
+	padding: 75px 0px 27px;
+}
+.lol{
+	display: flex;
+}
+.section-heading{
+	text-align: center;
+}
+.therapist-card{
+
+	width: 25%;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 25px;
+	padding: 15px;
+}
+.connect-item-details{
+	background: #fff;
+	box-shadow: 0 1.5px 6px 0 rgb(0 0 0 / 16%);
+	border-radius: 17.5px;
+	text-align: left;
+	padding: 20px;
+}
+.therapist-card > img{
+	width: 100%;
+}
+.readmore-area{
+	display: flex;
+    justify-content: space-between;
+	align-items: center;
+}
+/*.text{
+	text-align: center;
+	padding-top: 15px;
+}
+*/
+.all img{
+	/*margin: 0 auto;*/
+	padding: 15px 25px 15px 20px;
+}
+.all .pic1{
+      padding-left: 230px;
+}
+.not{
+	text-align: center;
+	
+}
+.hi img{
+	width: 300px;
+}
+.therapist-card1{
+     width: 25%;
+    text-align: center;
+	padding-top: 20px;
+	padding-bottom: 25px;
+	padding: 15px;
+}
+
+.therapist-card1 > img{
+	width: 100%;
+}
+.item-details1{
+	background: #fff;
+	box-shadow: 1px 1.5px 6px 0 rgba(0, 0, 0, 0.3) ;
+	border-radius: 17.5px;
+	text-align: left;
+	padding: 20px;
+}
+.read-area1{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.therapist-card2{
+	width: 25%;
+	text-align: center;
+	padding:15px;
+}
+.therapist-card2 > img{
+	width: 100%;
+}
+.item-details2{
+	background: #fff;
+	box-shadow: 1px 1.5px 6px 0 rgba(0, 0, 0, 0.3);
+	border-radius: 17.5px;
+	text-align: left;
+	padding: 20px;
+}
+.read-area2{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.Footer-sec{
+	background-color: #d2e3dc;
+	display: flex;
+}
+.for-img{
+	width: 40%;
+	padding: 30px 30px 60px 100px;
+}
+
+.text{
+	width: 60%;
+	display: flex;
+}
+.text{
+	padding-top: 10px;
+}
+.text2{
+	width: 50%;
+	padding-left: 200px;
+}
+.mail{
+	background-color: #50342b;
+	padding: 3px;
+	text-align: center;
+	
+}
+.mail a{
+	color: #fff;
+}
+ul li{
+	list-style: none;
+}
+.container{
+	padding: 20px;
+	background-color: #e4f3f3;
+}
+.header img{
+	padding-left: 100px;
+}
+.header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+}
+.main-head ul{
+	padding-right: 120px;
+}
+.main-head ul li{
+	display: inline-block;
+	margin-left: 30px;
+	border: 1.5px solid rgb(158, 154, 154);
+	padding: 6PX;
+	border-radius: 20PX;
+	
+}
+.main-head{
+	display: flex;
+	padding-right: 20px;
+}
+.lul a{
+	padding: 10px;
+background-color: rgb(156, 96, 212);
+color: yellow;
+border-radius: 5px;
+
+}
+.for-about{
+	display: flex;
+	/* background-color: rgb(230, 115, 95); */
+}
+.photo img{
+	width: 400px;
+	padding: 50px;
+}
+.about-text{
+	margin: 0 auto;
+}
+.about-text p{
+	
+	padding: 10px 20px 30px 50px;
+	max-width: 500px;
+	width: 100%;
+	text-align: center;
+	color: rgb(50, 33, 146);
+	font-size: 18px;
+	line-height: 22px;
+}
+.about-text h2{
+	text-decoration: underline;
+	padding-top: 50px;
+	text-align: center;
+	color: yellowgreen;
+}
